@@ -173,7 +173,7 @@
 
 <p align="center"><img src="/web/resources/screenshot/contract_manage.png"></p>
 
-<p align="center"><img src="/web/resources/screenshot/contract_detail.png"></p>
+<p align="center"><img src="/web/resources/screenshot/contract_detail.png" width=500></p>
 
 <span id="6.4"></span>
 - 개인정보 관리 기능
