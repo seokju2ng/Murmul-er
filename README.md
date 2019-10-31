@@ -15,5 +15,7 @@
   - 팀장 : 백종묵([@enchanted13th](https://github.com/enchanted13th))
   - 부팀장 : 김석중([@seokju2ng](https://github.com/seokju2ng))
   - 팀원 : 김성진([@tjdwls3469](https://github.com/tjdwls3469)), 김현우([@lecto17](https://github.com/lecto17)), 김연정([@YJeongKim](https://github.com/YJeongKim))
+  
+-----
 
 <p align="center">Copyright&copy; 2019. OrganicStack. All rights reserved.</p>
