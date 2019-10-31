@@ -3,6 +3,7 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <html>
 <head>
+    <jsp:include page="favicon.jsp"/>
     <title>계약한 방 선택하기</title>
 </head>
 <body>

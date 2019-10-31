@@ -1,7 +1,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Error</title>
+    <jsp:include page="favicon.jsp"/>
+    <title>에러 페이지</title>
     <link rel="stylesheet" href="/resources/css/error.css" />
 </head>
 <body>

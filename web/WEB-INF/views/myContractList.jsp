@@ -3,6 +3,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
+    <jsp:include page="favicon.jsp"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>계약서 관리</title>
     <link rel="stylesheet" href="/resources/css/myContract.css"/>
