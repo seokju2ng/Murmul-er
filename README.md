@@ -55,8 +55,7 @@
 ㅤ[1. 최근 본 목록 기능](#6.1)<br>
 ㅤ[2. 관심 목록 기능](#6.2)<br>
 ㅤ[3. 계약서 관리 기능](#6.3)<br>
-ㅤ[4. 개인정보 관리 기능](#6.4)<br>
-ㅤ[5. 비밀번호 변경 기능](#6.5)
+ㅤ[4. 개인정보 관리 기능](#6.4)
 </details>
 
 [▶︎ 개발자 팀 정보](#개발자-팀-정보)
@@ -126,6 +125,10 @@
 ### 방 등록 서비스
 <span id="4.1"></span>
 - 등록한 방 관리 기능
+  - 방 정보 수정 기능
+  - 방 삭제 기능
+  - 방 게시 종료 기능
+  - 방 거래 완료 표시 기능
 
 <p align="center"><img src="/web/resources/screenshot/room_manage.png"></p>
 
@@ -164,6 +167,9 @@
 
 <span id="6.3"></span>
 - 계약서 관리 기능
+  - 계약서 작성 기능 자세히 [<sup>바로가기</sup>]()
+  - 저장된 계약서 목록보기
+  - 저장된 계약서 상세보기
 
 <p align="center"><img src="/web/resources/screenshot/contract_manage.png"></p>
 
@@ -171,11 +177,10 @@
 
 <span id="6.4"></span>
 - 개인정보 관리 기능
+  - 아이디를 제외한 정보 변경 가능
+  - 비밀번호 변경 기능
 
 <p align="center"><img src="/web/resources/screenshot/personal_info.png"></p>
-
-<span id="6.5"></span>
-- 비밀번호 변경 기능
 
 <br><br><br>
 
