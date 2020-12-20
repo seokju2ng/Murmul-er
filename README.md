@@ -185,6 +185,7 @@
 <br><br><br>
 
 ---
+머물러(앱) : https://github.com/seokju2ng/murmul-er_app
 
 ### 개발자 팀 정보
   - 팀명 : OrganicStack(유기농스택)
